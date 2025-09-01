@@ -31,7 +31,7 @@ Aqui você vai encontrar:
 
 ##
 
-### ⚡ Abaixo mlisto algumas da linguagens e ferramentas com as quais já tive alguma experiência acadêmica e/ou em algum projeto fora do ambiente acadêmico.
+### ⚡ Abaixo listo algumas da linguagens e ferramentas com as quais já tive alguma experiência - acadêmica e/ou em algum projeto fora do ambiente acadêmico.
 <div style="display: inline_block"><br>
   <img align="center" alt="Natt-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Natt-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
